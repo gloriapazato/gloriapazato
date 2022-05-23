@@ -1,4 +1,4 @@
-## Olá,
+
 
 - 🔭 Estudante de Técnico em Informática - UFSM
 - 🔭 Estudante de Redes de Computadores  - UFSM
