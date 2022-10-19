@@ -2,8 +2,7 @@
 
 - 🔭 Estudante de Técnico em Informática - UFSM
 - 🔭 Estudante de Redes de Computadores  - UFSM
-- 💻  Estudando Typescript
-- 💬Curiosa e apaxionada por desenvolvimento Web 
+- 💬Curiosa e apaxionada por desenvolvimento Web
 
 <div> 
   <a href="https://github.com/gloriapazato">
