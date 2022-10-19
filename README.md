@@ -13,5 +13,7 @@
     <img algin="center" alt="Gloria-Js" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img algin="center" alt="Gloria-Ts" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img  algin="center" alt="Gloria-Docker" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
+<platform name="electron">
+    <icon src="res/electron/icon.png" />
+</platform>
 </div>
