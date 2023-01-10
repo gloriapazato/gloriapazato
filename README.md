@@ -2,7 +2,7 @@
 
 - 🔭 Estudante de Técnico em Informática - UFSM
 - 🔭 Estudante de Redes de Computadores  - UFSM
-- 💬Curiosa e apaxionada por desenvolvimento Web
+- 💬Curiosa e apaxionada por desenvolvimento, qualidade e segurança de software 
 
 <div> 
   <a href="https://github.com/gloriapazato">
