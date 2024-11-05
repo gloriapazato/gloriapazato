@@ -1,7 +1,7 @@
 ## Olá, eu Sou a Glória Pazato
 
-- 🔭 Estudante de Técnico em Informática - UFSM
-- 🔭 Estudante de Redes de Computadores  - UFSM
+- 🔭 Desenvolvedora de Software 
+- 🔭 UFSM
 
 <div> 
   <a href="https://github.com/gloriapazato">
